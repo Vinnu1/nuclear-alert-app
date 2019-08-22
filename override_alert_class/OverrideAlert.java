@@ -1,10 +1,17 @@
 /*
+IMPORTANT
+
 Put this file in this directory after installing react-native-onesignal:
 node_modules\react-native-onesignal\android\src\main\java\com\geektime\rnonesignalandroid
 */
 
 //This will override the notification and start MainActivity class
 
+/*
+I don't know much about JAVA, this class is basically modified scrapped code from stackoverflow
+and docs to fulfill my purpose due to lack of time. If you're using this, please consider optimizing
+the code. 
+*/
 package com.geektime.rnonesignalandroid;
 
 import com.onesignal.OSNotificationPayload;
