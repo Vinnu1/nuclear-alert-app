@@ -2,6 +2,10 @@
 
 A react native app which plays your_alert_song and show reminders(kind of your last todos/wishes), when a nuclear alert(background push notification) comes from OneSignal platform. It is currently coded considering android only.
 
+# Screenshots
+
+![Settings Screen](https://imgur.com/B2bOcnd) ![Alert Screen](https://imgur.com/Z4PfatX)
+
 # Steps
 
 * Install node modules: `npm install`
