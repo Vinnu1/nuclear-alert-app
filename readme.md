@@ -4,7 +4,8 @@ A react native app which plays your_alert_song and show reminders(kind of your l
 
 ## Screenshots
 
-![Settings Screen](https://i.imgur.com/B2bOcnd.jpg "Settings Screen") ![Alert Screen](https://imgur.com/Z4PfatX "Alert Screen")
+<img src="https://i.imgur.com/B2bOcnd.jpg" alt="Settings Screen" width="200"/>
+<img src="https://i.imgur.com/Z4PfatX.jpg" alt="Alert Screen" width="200"/>
 
 ## Steps
 
