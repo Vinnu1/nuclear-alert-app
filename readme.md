@@ -4,14 +4,14 @@ A react native app which plays your_alert_song and show reminders(kind of your l
 
 # Steps
 
-* Install node modules: `code(npm install)`
+* Install node modules: `npm install`
 
-* Create a folder 'raw' at `code(android/app/src/main/res/)` , add the music you want to play at the alert screen and rename it to 'song.mp3'.
+* Create a folder 'raw' at `android/app/src/main/res/` , add the music you want to play at the alert screen and rename it to 'song.mp3'.
 
 * Create and add your OneSignal ID in App.js
 
-* Cut/Copy OverrideAlert.java file from override_alert_class folder and place it inside this directory: `code(node_modules\react-native-onesignal\android\src\main\java\com\geektime\rnonesignalandroid)`
+* Cut/Copy OverrideAlert.java file from override_alert_class folder and place it inside this directory: `node_modules\react-native-onesignal\android\src\main\java\com\geektime\rnonesignalandroid`
 
-* Install app: `code(react-native run-android)`
+* Install app: `react-native run-android`
 
 
